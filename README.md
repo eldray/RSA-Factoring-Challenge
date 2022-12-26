@@ -11,4 +11,5 @@ where <file> containing natural numbers to factor. One number per line You can a
 
 - Example
 ./factors tests/test00
+
 ./rsa tests/rsa-1
